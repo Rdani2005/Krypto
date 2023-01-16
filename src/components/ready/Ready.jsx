@@ -3,7 +3,7 @@ import React from 'react'
 const Ready = () => {
     return (
         <section>
-            <div className='rounded-2xl w-4/5 bg-gradient-to-r from-secundary-color to-light-color mx-auto flex justify-center p-10 flex-col text-center'>
+            <div className='rounded-2xl w-full md:w-4/5 bg-gradient-to-r from-secundary-color to-light-color mx-auto flex justify-center p-10 flex-col text-center'>
                 <h3 className='font-sans font-semibold text-trihead tracking-[10%] text-[#000] mb-5'>
                     ARE YOU READY?
                 </h3>

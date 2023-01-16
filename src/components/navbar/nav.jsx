@@ -6,7 +6,7 @@ const Nav = () => {
             <h1 className='font-sans font-bold text-trihead'>
                 KRYPTO
             </h1>
-            <div className="flex font-sans text-trihead">
+            <div className="md:flex font-sans text-trihead hidden">
                 <a href="#" className='mr-5'>Home</a>
                 <a href="#" className='mr-5'>Pricing</a>
                 <a href="#" className='mr-5'>Contact</a>
