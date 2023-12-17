@@ -13,7 +13,7 @@ function App() {
     return (
         <>
             <Nav />
-            <Circle top={'top-[40%]'} xPosition={'right-0'} color={'bg-light-color'} />
+            <Circle top={'top-[10%]'} xPosition={'right-0'} color={'bg-light-color'} />
             <Circle top={'top-0'} xPosition={'left-[10%]'} color={'bg-main-color'} />
             <Hero />
             <Featured />
