@@ -1,5 +1,5 @@
 import React from 'react'
-import heroImage from '../../Assets/hero.png'
+import heroImage from '../../Assets/Hero.png'
 const Hero = () => {
     return (
         <section className='flex flex-col md:grid md:grid-cols-2 '>
